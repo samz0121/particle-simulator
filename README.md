@@ -1,2 +1,2 @@
-# particle-simulator
-learning c++ stuff by making 2d particle simulator
+# Particle-Simulator
+learning c++ by making 2d particle simulator
